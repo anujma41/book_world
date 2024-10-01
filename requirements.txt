@@ -17,3 +17,5 @@ tqdm>=4.64.1
 # Additional dependencies (if used)
 python-dateutil==2.9.0.post0
 gunicorn==20.1.0  # You can specify a version or use the latest
+streamlit
+
